@@ -167,6 +167,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Leaflet](http://leafletjs.com/) Interactive map UIs made easy. #code
 * [Lusca](https://github.com/krakenjs/lusca) Secure your Express application. By the Kraken team at PayPal.
 * [Express](http://expressjs.com/) The most popular framework for Node. #code
+* [Countly](http://github.com/countly/countly-server) Express, Node and MongoDB based, open source mobile & web analytics platform (self-hosted) #code
 * [Stampit](https://github.com/ericelliott/stampit) Create objects from reusable, composable behaviors. Prototypal inheritance with stamps. #code
 * [Credential](https://github.com/ericelliott/credential) If you write Node apps with password logins, you need Credential. #code
 * [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) Easy JSON Web Token auth. #code
